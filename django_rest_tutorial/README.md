@@ -1,7 +1,7 @@
 # Django REST Tutorial
 
 ## Description
-This folder contains the django REST tutorial up through the end of part 3.  
+This folder contains the final product of the Django REST tutorial.
 
 ## Setup
 You will need to follow the steps in "Setting Up a New Environment" of the REST tutorial.
